@@ -1,0 +1,36 @@
+.image-header {
+	background: url("../img/background.jpg");
+}
+
+.page-title {
+	color: white;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.max-400 {
+	max-width: 400px;
+}
+
+.offset-right {
+	margin-left: 32px;
+}
+
+.center-content {
+	max-width: 640px;
+}
+
+.no-show-link {
+	color: white;
+}
+
+.no-show-link:hover, .no-show-link:active {
+	text-decoration: none;
+	color: rgba(255, 255, 255, 0.5);
+}
+
+h1, h2, h3, h4 {
+	font-family: "La Belle Aurore", cursive;
+}
