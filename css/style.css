@@ -1,5 +1,6 @@
 .image-header {
 	background: black url("../img/background.jpg");
+	background-size: cover;
 }
 
 .page-title {
