@@ -26,7 +26,7 @@
 	color: white;
 }
 
-.no-show-link:hover, .no-show-link:active {
+.no-show-link:hover, .no-show-link:active, .no-show-link:focus {
 	text-decoration: none;
 	color: rgba(255, 255, 255, 0.75);
 }
@@ -46,7 +46,12 @@ h3 {
 	font-weight: 300;
 }
 
-p, div {
+p, li {
 	font-family: "Source Sans Pro", sans-serif;
 	font-weight: 400;
+}
+
+.btn-primary {
+	font-size: 24px;
+	padding: 12px 24px;
 }
